@@ -28,6 +28,7 @@ public class Main {
             System.out.println("Invalid choice! Exiting.");
             return;
         }
+
         // Display sorted array
         System.out.print("Sorted List: ");
         for (int num : arr) {
